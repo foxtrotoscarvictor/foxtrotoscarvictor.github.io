@@ -18,7 +18,7 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+#  defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 #  defaultFeaturedImage = "/img/blowfish_logo_transparent.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true

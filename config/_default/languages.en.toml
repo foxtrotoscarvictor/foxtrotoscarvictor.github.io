@@ -1,23 +1,23 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "For Our Veterans"
+title = "foxtrotoscarvictor.com"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-   logo = "/img/blowfish_logo_transparent.png"
-  # secondaryLogo = "img/secondary-logo.png"
-   description = "For Our Veterans"
+   #logo = "/img/1338584.png"
+   #secondaryLogo = "/img/blowfish_logo.png"
+   description = "foxtrotoscarvictor.com"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+ [author]
+   name = "For Our Veterans"
+   image = "img/logo-5.png"
+   headline = "⭐⭐⭐Never Forget⭐⭐⭐"
+   bio = "Hello"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -64,3 +64,5 @@ title = "For Our Veterans"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #   ]
+
+
